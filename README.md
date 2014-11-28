@@ -3,4 +3,4 @@
 
 (A work in progress)
 
-see progress at http://natalialkb.github.io/stairs-02.
+see progress at http://natalialkb.github.io/stairs-03.
